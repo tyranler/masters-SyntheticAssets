@@ -1,0 +1,13 @@
+
+  dailyIssueds(orderBy:id,orderDirection:asc, first:1000) {
+    id
+    value
+    totalDebt
+  } 
+
+
+  dailyIssueds(orderBy:id,orderDirection:asc, first:1000, skip:1000) {
+    id
+    value
+    totalDebt
+  } 

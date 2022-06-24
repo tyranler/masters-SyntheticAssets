@@ -1,0 +1,15 @@
+query {
+  totalDailyActiveStakers(first: 1000, skip:1000) {
+    timestamp
+    count
+  }
+
+}
+
+
+query {
+  totalDailyActiveStakers(first: 1000, skip:1000) {
+    timestamp
+    count
+  }
+}

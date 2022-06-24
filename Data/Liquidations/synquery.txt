@@ -1,0 +1,11 @@
+query {
+  
+ 
+
+    accountLiquidateds(first:1000,skip:3000){
+    time
+    snxRedeemed
+    amountLiquidated
+    liquidator
+  }
+}

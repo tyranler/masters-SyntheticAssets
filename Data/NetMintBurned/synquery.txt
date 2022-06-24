@@ -1,0 +1,7 @@
+{
+  dailyIssueds(orderBy:id,orderDirection:asc, first:1000) {
+    id
+    value
+    totalDebt
+  } 
+}

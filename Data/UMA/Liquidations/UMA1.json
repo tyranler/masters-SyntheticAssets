@@ -1,0 +1,1021 @@
+{
+  "data": {
+    "liquidationCreatedEvents": [
+      {
+        "timestamp": "1598276665",
+        "liquidatedCollateral": "75000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1598292947",
+        "liquidatedCollateral": "72000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621758949",
+        "liquidatedCollateral": "1378000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1619618483",
+        "liquidatedCollateral": "1277118888095214935040",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1618846578",
+        "liquidatedCollateral": "178730000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621788138",
+        "liquidatedCollateral": "38000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621775186",
+        "liquidatedCollateral": "186000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630150238",
+        "liquidatedCollateral": "1000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621632428",
+        "liquidatedCollateral": "10273000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1597579831",
+        "liquidatedCollateral": "55602659574468085093",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1621428880",
+        "liquidatedCollateral": "78210147804328978750",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1606009506",
+        "liquidatedCollateral": "810034438097118892",
+        "liquidator": "0x488f6afc09517fb732d0c7dd087488381fe08f3a"
+      },
+      {
+        "timestamp": "1621773001",
+        "liquidatedCollateral": "844000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1618717838",
+        "liquidatedCollateral": "10854000000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621660956",
+        "liquidatedCollateral": "2218000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630155438",
+        "liquidatedCollateral": "100000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621787966",
+        "liquidatedCollateral": "1624157",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1591119037",
+        "liquidatedCollateral": "2150346465742844",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1591940497",
+        "liquidatedCollateral": "91285203707845817894",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621630518",
+        "liquidatedCollateral": "10000000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430294",
+        "liquidatedCollateral": "22387837320000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621759763",
+        "liquidatedCollateral": "5000000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621756293",
+        "liquidatedCollateral": "71311000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430198",
+        "liquidatedCollateral": "28957368837801088500000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1596217006",
+        "liquidatedCollateral": "348130000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1597429825",
+        "liquidatedCollateral": "250000000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1599315035",
+        "liquidatedCollateral": "1120000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621612816",
+        "liquidatedCollateral": "10816000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630150610",
+        "liquidatedCollateral": "78530989879593541",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630846213",
+        "liquidatedCollateral": "400000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621761047",
+        "liquidatedCollateral": "556000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621787909",
+        "liquidatedCollateral": "548707",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630151514",
+        "liquidatedCollateral": "100000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630151101",
+        "liquidatedCollateral": "90000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621626387",
+        "liquidatedCollateral": "902980000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621660841",
+        "liquidatedCollateral": "2217252869307663871936",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621787985",
+        "liquidatedCollateral": "5000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630150517",
+        "liquidatedCollateral": "250000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1610550610",
+        "liquidatedCollateral": "3538251",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1614081364",
+        "liquidatedCollateral": "4799629629629629754420",
+        "liquidator": "0x488f6afc09517fb732d0c7dd087488381fe08f3a"
+      },
+      {
+        "timestamp": "1619155259",
+        "liquidatedCollateral": "41789713450579000165",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1619163386",
+        "liquidatedCollateral": "41789713450579000281",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621621281",
+        "liquidatedCollateral": "14499170000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1601295527",
+        "liquidatedCollateral": "336000000000000000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1601593787",
+        "liquidatedCollateral": "341278000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1602105318",
+        "liquidatedCollateral": "352540000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1602801083",
+        "liquidatedCollateral": "317000000000000000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1603324583",
+        "liquidatedCollateral": "306460000000000000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1604085631",
+        "liquidatedCollateral": "312200000000000000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1602186713",
+        "liquidatedCollateral": "1130000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1603204182",
+        "liquidatedCollateral": "1005000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1603978493",
+        "liquidatedCollateral": "915800",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1643021118",
+        "liquidatedCollateral": "40196499844921725810972",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631476",
+        "liquidatedCollateral": "4125988931520688340250",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1593113930",
+        "liquidatedCollateral": "306068000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621631408",
+        "liquidatedCollateral": "8111550000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1614508401",
+        "liquidatedCollateral": "713000000000000000",
+        "liquidator": "0x1c99f36e53135ddc55d1947a99f23765a89f6cd0"
+      },
+      {
+        "timestamp": "1620689754",
+        "liquidatedCollateral": "261407000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631814",
+        "liquidatedCollateral": "200455727640498101177",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631238",
+        "liquidatedCollateral": "4500000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621428377",
+        "liquidatedCollateral": "164896050000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1619144958",
+        "liquidatedCollateral": "122000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1610667632",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1603759087",
+        "liquidatedCollateral": "73703577437852",
+        "liquidator": "0xafad30ca6a291cbff077d5132c7ce8e073387070"
+      },
+      {
+        "timestamp": "1603760609",
+        "liquidatedCollateral": "74240624107864",
+        "liquidator": "0xafad30ca6a291cbff077d5132c7ce8e073387070"
+      },
+      {
+        "timestamp": "1603778040",
+        "liquidatedCollateral": "785248226950354304",
+        "liquidator": "0xafad30ca6a291cbff077d5132c7ce8e073387070"
+      },
+      {
+        "timestamp": "1630151423",
+        "liquidatedCollateral": "80000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430124",
+        "liquidatedCollateral": "172657000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1589993634",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1592952397",
+        "liquidatedCollateral": "40000000000000000000",
+        "liquidator": "0x6be8cf5ccbc31cda432fc5f9babc2a9882428213"
+      },
+      {
+        "timestamp": "1621788070",
+        "liquidatedCollateral": "25000000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630151718",
+        "liquidatedCollateral": "150000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430114",
+        "liquidatedCollateral": "4000000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630153242",
+        "liquidatedCollateral": "55190000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621435553",
+        "liquidatedCollateral": "32164176194000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1624370195",
+        "liquidatedCollateral": "399945790842527394330",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430103",
+        "liquidatedCollateral": "1209146630000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430253",
+        "liquidatedCollateral": "6200000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1610662515",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1617812736",
+        "liquidatedCollateral": "23200000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1609441348",
+        "liquidatedCollateral": "419500",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1609950026",
+        "liquidatedCollateral": "348650",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1605138277",
+        "liquidatedCollateral": "260000000000000000",
+        "liquidator": "0x31184048c851690cb58424794e684891bf032379"
+      },
+      {
+        "timestamp": "1605895696",
+        "liquidatedCollateral": "235000000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1608140982",
+        "liquidatedCollateral": "196240000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1608760980",
+        "liquidatedCollateral": "200000000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1604531573",
+        "liquidatedCollateral": "848000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1604935359",
+        "liquidatedCollateral": "800000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1605295201",
+        "liquidatedCollateral": "740000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1605715305",
+        "liquidatedCollateral": "670000",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1606230451",
+        "liquidatedCollateral": "620000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1606854319",
+        "liquidatedCollateral": "632000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1608317711",
+        "liquidatedCollateral": "185000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1610499676",
+        "liquidatedCollateral": "244600000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621759607",
+        "liquidatedCollateral": "9929800000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430236",
+        "liquidatedCollateral": "195267281513217577012",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621191328",
+        "liquidatedCollateral": "2668000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1601457112",
+        "liquidatedCollateral": "521951219512194600",
+        "liquidator": "0xbd3264f1b11c7fe64cbc171180b634a60e0f5ea3"
+      },
+      {
+        "timestamp": "1629735288",
+        "liquidatedCollateral": "200000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1613657789",
+        "liquidatedCollateral": "736100000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621631855",
+        "liquidatedCollateral": "3050146316000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630155331",
+        "liquidatedCollateral": "108000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630150858",
+        "liquidatedCollateral": "120000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1618824115",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1609253452",
+        "liquidatedCollateral": "1009800000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1599792753",
+        "liquidatedCollateral": "337332002304166459",
+        "liquidator": "0xfad022765df9923c53c5b0f7509b6991dff9df44"
+      },
+      {
+        "timestamp": "1599792835",
+        "liquidatedCollateral": "4114453000180530434",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1648227918",
+        "liquidatedCollateral": "21464423632624108759620",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1648230927",
+        "liquidatedCollateral": "8315524407174536474380",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1648248635",
+        "liquidatedCollateral": "490051960201354766000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621632144",
+        "liquidatedCollateral": "218536328000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1600889148",
+        "liquidatedCollateral": "770000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1600890618",
+        "liquidatedCollateral": "4600",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1595448208",
+        "liquidatedCollateral": "20000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1616615182",
+        "liquidatedCollateral": "75000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1596590295",
+        "liquidatedCollateral": "321300000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1621430007",
+        "liquidatedCollateral": "46447787",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1613653217",
+        "liquidatedCollateral": "1400018181818181833",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1613843412",
+        "liquidatedCollateral": "8400200000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621787944",
+        "liquidatedCollateral": "1597831",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621763759",
+        "liquidatedCollateral": "48843127673000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1601439609",
+        "liquidatedCollateral": "1395080",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1621632288",
+        "liquidatedCollateral": "1022240940724303220000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621660525",
+        "liquidatedCollateral": "45000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1603766433",
+        "liquidatedCollateral": "917173208966207",
+        "liquidator": "0xafad30ca6a291cbff077d5132c7ce8e073387070"
+      },
+      {
+        "timestamp": "1621429324",
+        "liquidatedCollateral": "85355600000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621429107",
+        "liquidatedCollateral": "1817243000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1611352219",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x488f6afc09517fb732d0c7dd087488381fe08f3a"
+      },
+      {
+        "timestamp": "1611352219",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1609510750",
+        "liquidatedCollateral": "19301241308793456019075",
+        "liquidator": "0x488f6afc09517fb732d0c7dd087488381fe08f3a"
+      },
+      {
+        "timestamp": "1609510819",
+        "liquidatedCollateral": "4961758691206543980925",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621788362",
+        "liquidatedCollateral": "250000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1595752140",
+        "liquidatedCollateral": "1931000000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1596666977",
+        "liquidatedCollateral": "88431353232846096",
+        "liquidator": "0x1368563985d011a5735f46b5a9418a7fe797bd46"
+      },
+      {
+        "timestamp": "1621430190",
+        "liquidatedCollateral": "2000000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1616618132",
+        "liquidatedCollateral": "2015303274032754763",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1619144761",
+        "liquidatedCollateral": "41789713450578999735",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631121",
+        "liquidatedCollateral": "887000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621759528",
+        "liquidatedCollateral": "42146000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1599224720",
+        "liquidatedCollateral": "230000000000000027",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1599226023",
+        "liquidatedCollateral": "230000000000000027",
+        "liquidator": "0xfad022765df9923c53c5b0f7509b6991dff9df44"
+      },
+      {
+        "timestamp": "1599735328",
+        "liquidatedCollateral": "332999999999999956",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1600153957",
+        "liquidatedCollateral": "323329999999999993",
+        "liquidator": "0xac716460a84b85d774bea75666ddf0088b024741"
+      },
+      {
+        "timestamp": "1600157080",
+        "liquidatedCollateral": "265000000000000053",
+        "liquidator": "0xfad022765df9923c53c5b0f7509b6991dff9df44"
+      },
+      {
+        "timestamp": "1600676343",
+        "liquidatedCollateral": "662000000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1600863371",
+        "liquidatedCollateral": "359400000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1609230199",
+        "liquidatedCollateral": "171000000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1610699861",
+        "liquidatedCollateral": "77546386",
+        "liquidator": "0xf31ff8e225dcbdc510b64cafe3a46761dccfa1c5"
+      },
+      {
+        "timestamp": "1610700847",
+        "liquidatedCollateral": "50000000",
+        "liquidator": "0xf31ff8e225dcbdc510b64cafe3a46761dccfa1c5"
+      },
+      {
+        "timestamp": "1621631782",
+        "liquidatedCollateral": "555314468698477242814",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1608318614",
+        "liquidatedCollateral": "530000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1607092535",
+        "liquidatedCollateral": "206950000000000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1607388237",
+        "liquidatedCollateral": "629000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1607645333",
+        "liquidatedCollateral": "683200",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1608333819",
+        "liquidatedCollateral": "530000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1608625609",
+        "liquidatedCollateral": "555000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1606166412",
+        "liquidatedCollateral": "272000000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1611619307",
+        "liquidatedCollateral": "601500000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1634827798",
+        "liquidatedCollateral": "9796803671333268462",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621632192",
+        "liquidatedCollateral": "198886393992978246756",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631380",
+        "liquidatedCollateral": "10987730000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621428865",
+        "liquidatedCollateral": "76672490809404847489",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430307",
+        "liquidatedCollateral": "176327509190595152511",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621773674",
+        "liquidatedCollateral": "176713000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621632075",
+        "liquidatedCollateral": "260771576124319476853",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1617272735",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x17aaa46e54ed95723a1fc303f8f5355e9082417f"
+      },
+      {
+        "timestamp": "1604720376",
+        "liquidatedCollateral": "6000000",
+        "liquidator": "0xdd4af03ad54b93d6cc7619946e0b0a7b5c66b9ac"
+      },
+      {
+        "timestamp": "1621428662",
+        "liquidatedCollateral": "500000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631632",
+        "liquidatedCollateral": "200000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1618364130",
+        "liquidatedCollateral": "9006818",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1618365945",
+        "liquidatedCollateral": "9006818",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1618367764",
+        "liquidatedCollateral": "1306286364",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621430598",
+        "liquidatedCollateral": "7263000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621660821",
+        "liquidatedCollateral": "7207000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621631935",
+        "liquidatedCollateral": "1500000000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1630150570",
+        "liquidatedCollateral": "223000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1609948236",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x4d1dcf15acbc0b69aed7b0d87bda5cbc66c48184"
+      },
+      {
+        "timestamp": "1609948364",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x4d1dcf15acbc0b69aed7b0d87bda5cbc66c48184"
+      },
+      {
+        "timestamp": "1632675933",
+        "liquidatedCollateral": "136244406531506406",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621787764",
+        "liquidatedCollateral": "689985530538235650000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1615318560",
+        "liquidatedCollateral": "0",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621631726",
+        "liquidatedCollateral": "196530818550852233896",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1614677797",
+        "liquidatedCollateral": "246000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1615385937",
+        "liquidatedCollateral": "199400",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1618589726",
+        "liquidatedCollateral": "1943913",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1615866954",
+        "liquidatedCollateral": "280765",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1616415331",
+        "liquidatedCollateral": "714354",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1613560790",
+        "liquidatedCollateral": "98890000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1614326773",
+        "liquidatedCollateral": "85000000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1614884876",
+        "liquidatedCollateral": "78400000000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1615832452",
+        "liquidatedCollateral": "145000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1611401077",
+        "liquidatedCollateral": "380139",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1611756964",
+        "liquidatedCollateral": "473200000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1612878924",
+        "liquidatedCollateral": "1000267",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1613271924",
+        "liquidatedCollateral": "896752",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1609959229",
+        "liquidatedCollateral": "99900001000000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1610556734",
+        "liquidatedCollateral": "113711626400000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1611045997",
+        "liquidatedCollateral": "86634548200000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1612342905",
+        "liquidatedCollateral": "77457363300000000",
+        "liquidator": "0xc3e860af1fd9cbd53621bd56e53ec6e257e5bbdf"
+      },
+      {
+        "timestamp": "1612462820",
+        "liquidatedCollateral": "594500000000000000",
+        "liquidator": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+      },
+      {
+        "timestamp": "1621776974",
+        "liquidatedCollateral": "118764818000000000000000",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621429339",
+        "liquidatedCollateral": "476354779280746486246",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      },
+      {
+        "timestamp": "1621430701",
+        "liquidatedCollateral": "41645220719253513754",
+        "liquidator": "0x51a66fd296269b05d3c3511c0833f83664f3b851"
+      }
+    ]
+  }
+}

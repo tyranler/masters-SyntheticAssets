@@ -1,0 +1,2652 @@
+{
+  "data": {
+    "accountLiquidateds": [
+      {
+        "time": "1624534267",
+        "snxRedeemed": "1387.742418351549568753",
+        "amountLiquidated": "8323.931342075930958759",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1623907451",
+        "snxRedeemed": "45.056753820359341726",
+        "amountLiquidated": "380.138",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652618854",
+        "snxRedeemed": "43.495121678981816055",
+        "amountLiquidated": "111.462478990045925082",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652996134",
+        "snxRedeemed": "153.580810695258606738",
+        "amountLiquidated": "314.648281876239856873",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1652607972",
+        "snxRedeemed": "62",
+        "amountLiquidated": "182.262350141749465908",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623907957",
+        "snxRedeemed": "30.875903338230661187",
+        "amountLiquidated": "260.496",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652614301",
+        "snxRedeemed": "309.427219174589197708",
+        "amountLiquidated": "776.901020724014323661",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652616743",
+        "snxRedeemed": "81.968722647232086662",
+        "amountLiquidated": "210.086983706972899365",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652609449",
+        "snxRedeemed": "78.36879936128828115",
+        "amountLiquidated": "225.055058996336355376",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "3964.141",
+        "amountLiquidated": "10128.477470949424179367",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652615598",
+        "snxRedeemed": "118.447279930731617061",
+        "amountLiquidated": "303.838328641524466183",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623392880",
+        "snxRedeemed": "10.890088593102841843",
+        "amountLiquidated": "90.220689481801431838",
+        "liquidator": "0x7e333ad826395d09230e0e6463f986a1f90c6a7f"
+      },
+      {
+        "time": "1652615598",
+        "snxRedeemed": "51.573379765395387127",
+        "amountLiquidated": "132.294886969765827449",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623635390",
+        "snxRedeemed": "203.415863027981210698",
+        "amountLiquidated": "1688.287846028306815783",
+        "liquidator": "0x9a422fe2929174a8afc7da61f4b742d1cd45ec77"
+      },
+      {
+        "time": "1624530186",
+        "snxRedeemed": "0.000228772148480181",
+        "amountLiquidated": "0.001372216941520217",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1655105165",
+        "snxRedeemed": "0",
+        "amountLiquidated": "0",
+        "liquidator": "0xd568bd5a29b46a0ce02caa94c82019ded266fda8"
+      },
+      {
+        "time": "1624448651",
+        "snxRedeemed": "302.996309336944189087",
+        "amountLiquidated": "1905.239732623622381676",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "27.115254642660061634",
+        "amountLiquidated": "38.733098362630564966",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "28.272764847245127183",
+        "amountLiquidated": "40.38655717025707783",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "28.964678658027763495",
+        "amountLiquidated": "41.374929436890428316",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "28.434371775725801912",
+        "amountLiquidated": "40.61740645194062627",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "27.687626463950699155",
+        "amountLiquidated": "39.550709495043421793",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1655141797",
+        "snxRedeemed": "26.598342739195628131",
+        "amountLiquidated": "37.994709589758678032",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652614475",
+        "snxRedeemed": "165.156190550299954709",
+        "amountLiquidated": "419.228977285901480955",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624532290",
+        "snxRedeemed": "0.075872862202360283",
+        "amountLiquidated": "0.455099222555611956",
+        "liquidator": "0x2270f443bc7b9f0923d93b78bb7949ba65835cc0"
+      },
+      {
+        "time": "1652616743",
+        "snxRedeemed": "1378.189267927113695253",
+        "amountLiquidated": "3532.318388346943380527",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1620935405",
+        "snxRedeemed": "339.739061217549382787",
+        "amountLiquidated": "5827.683663339751211284",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652610957",
+        "snxRedeemed": "91.473",
+        "amountLiquidated": "258.315217738443253046",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "4176.874948549432703176",
+        "amountLiquidated": "10642.9531434187973818",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624700242",
+        "snxRedeemed": "42.198763362248097271",
+        "amountLiquidated": "218",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652615279",
+        "snxRedeemed": "50.610863560670547027",
+        "amountLiquidated": "128.469544492394909286",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "87.30537207",
+        "amountLiquidated": "217.159086703599277224",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652605746",
+        "snxRedeemed": "268.734591976314807327",
+        "amountLiquidated": "863.284704292791501848",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1655355415",
+        "snxRedeemed": "819.755337980553081282",
+        "amountLiquidated": "1235.813634317067799936",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655355415",
+        "snxRedeemed": "5071.041531259300647934",
+        "amountLiquidated": "7644.795921618033595067",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655355415",
+        "snxRedeemed": "3665.750118035697199051",
+        "amountLiquidated": "5526.26346664348774118",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1623372165",
+        "snxRedeemed": "21742.185636419078975277",
+        "amountLiquidated": "194172.129244487126048193",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1622201502",
+        "snxRedeemed": "99.31153106721581231",
+        "amountLiquidated": "1060.645318145868534435",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624508707",
+        "snxRedeemed": "3.972332514989631674",
+        "amountLiquidated": "23.333688476582151367",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1639385638",
+        "snxRedeemed": "618.826349726961628047",
+        "amountLiquidated": "3000.385705534812104217",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1652615279",
+        "snxRedeemed": "605.217570148143030336",
+        "amountLiquidated": "1536.271465957492858888",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1639639351",
+        "snxRedeemed": "8262.764527092454196529",
+        "amountLiquidated": "38834.993277334534723691",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1655349204",
+        "snxRedeemed": "44.994765420615128925",
+        "amountLiquidated": "67.096967759072934676",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655349204",
+        "snxRedeemed": "51.666080140010878116",
+        "amountLiquidated": "77.045346963931243943",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1624623085",
+        "snxRedeemed": "208.162325352387542387",
+        "amountLiquidated": "1185.964113220541336445",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652696801",
+        "snxRedeemed": "35.989045764704220685",
+        "amountLiquidated": "89.28555081079801659",
+        "liquidator": "0xf6c0d982be91131dacc2702605a6c341fb5a9d40"
+      },
+      {
+        "time": "1623372078",
+        "snxRedeemed": "2990.04282823484101619",
+        "amountLiquidated": "26703.064365252514444835",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1639389180",
+        "snxRedeemed": "2428.747750732952708203",
+        "amountLiquidated": "11632.252138955581012802",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623640975",
+        "snxRedeemed": "47.318877300822327912",
+        "amountLiquidated": "392.731836374501218233",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1623721885",
+        "snxRedeemed": "91.153660937006610989",
+        "amountLiquidated": "831.480121073316705769",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1624523930",
+        "snxRedeemed": "131.825599997501538404",
+        "amountLiquidated": "782.791884009193008544",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1623596048",
+        "snxRedeemed": "1.268554805903754677",
+        "amountLiquidated": "9.526467928727635355",
+        "liquidator": "0xe2b475521010333c4089d66f5cc68ab6745607c7"
+      },
+      {
+        "time": "1624532467",
+        "snxRedeemed": "248.620809501948936712",
+        "amountLiquidated": "1491.272819176235531297",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624661510",
+        "snxRedeemed": "84.234320634312277303",
+        "amountLiquidated": "445",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652606410",
+        "snxRedeemed": "1578.491883120920121257",
+        "amountLiquidated": "4924.127016045488292203",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623635118",
+        "snxRedeemed": "227.2210975186005513",
+        "amountLiquidated": "1885.863823949153967567",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1624700219",
+        "snxRedeemed": "62.717428116368731724",
+        "amountLiquidated": "324",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652619603",
+        "snxRedeemed": "62.970783682022642563",
+        "amountLiquidated": "159.57462014469555654",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623393944",
+        "snxRedeemed": "17.930250069782437527",
+        "amountLiquidated": "147",
+        "liquidator": "0x8b01d375e274213c860ef6ac013dbdd5286cd816"
+      },
+      {
+        "time": "1652618854",
+        "snxRedeemed": "200.969071716650381142",
+        "amountLiquidated": "515.012030525961109196",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624700129",
+        "snxRedeemed": "56.572866627587779007",
+        "amountLiquidated": "292.257022295762214233",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652618894",
+        "snxRedeemed": "171.888418841049188182",
+        "amountLiquidated": "440.488692389632551354",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623373348",
+        "snxRedeemed": "59932.439795140023972975",
+        "amountLiquidated": "500000",
+        "liquidator": "0xa0621ad9606e0b9efeaff2708189bfcfe186bf6e"
+      },
+      {
+        "time": "1623714353",
+        "snxRedeemed": "555.82267975332324069",
+        "amountLiquidated": "5018.85856101505678755",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1623738951",
+        "snxRedeemed": "36.883629191321499013",
+        "amountLiquidated": "340",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652615598",
+        "snxRedeemed": "134.412257460571100237",
+        "amountLiquidated": "344.79133399802290854",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623374247",
+        "snxRedeemed": "31285.083590455575821792",
+        "amountLiquidated": "250000",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1624892805",
+        "snxRedeemed": "3.372325133931058225",
+        "amountLiquidated": "20.347644729344175481",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652606197",
+        "snxRedeemed": "74.622348798643846907",
+        "amountLiquidated": "236.457119544273345581",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623633572",
+        "snxRedeemed": "1076.599831752306777084",
+        "amountLiquidated": "8935.440844815111957921",
+        "liquidator": "0x9a422fe2929174a8afc7da61f4b742d1cd45ec77"
+      },
+      {
+        "time": "1623908150",
+        "snxRedeemed": "36.261607186967711436",
+        "amountLiquidated": "305.934486265872690062",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623552539",
+        "snxRedeemed": "5.190498006309140915",
+        "amountLiquidated": "40.680609237775826887",
+        "liquidator": "0x5097119dcb1ce3725dbcbe42356722dbacfc3b81"
+      },
+      {
+        "time": "1652614060",
+        "snxRedeemed": "120.904841196117051929",
+        "amountLiquidated": "294.345769945883159551",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624544065",
+        "snxRedeemed": "130.707240131289473006",
+        "amountLiquidated": "784.64772541094874172",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1652778284",
+        "snxRedeemed": "4829.293045225076673388",
+        "amountLiquidated": "9101.211197859355947535",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623717061",
+        "snxRedeemed": "511.832245472332885809",
+        "amountLiquidated": "4668.801374073900612296",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1624526136",
+        "snxRedeemed": "1046.887388569404606843",
+        "amountLiquidated": "6279.420899800846905412",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624690465",
+        "snxRedeemed": "62.858996695238150165",
+        "amountLiquidated": "338.819742189166485331",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1652996134",
+        "snxRedeemed": "156.812667988575674658",
+        "amountLiquidated": "321.269541003652474282",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1623636233",
+        "snxRedeemed": "129.943132421526301643",
+        "amountLiquidated": "1078.487232394124059347",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1638964678",
+        "snxRedeemed": "2621.443595037708647145",
+        "amountLiquidated": "13660.847320790071566357",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1623408481",
+        "snxRedeemed": "88.451960502179092118",
+        "amountLiquidated": "756",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652950210",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "80.384290881228548587",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652950210",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "127.035041431931711009",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652950210",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "113.80613156784202518",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1623715866",
+        "snxRedeemed": "766.893408053624231854",
+        "amountLiquidated": "6995.403335686321065679",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1624562099",
+        "snxRedeemed": "91.997129215095656142",
+        "amountLiquidated": "570.121312329214746546",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1652794711",
+        "snxRedeemed": "37.7561519",
+        "amountLiquidated": "97.966918502864593698",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1604634064",
+        "snxRedeemed": "2092.321020333868677609",
+        "amountLiquidated": "6595.617351519793970235",
+        "liquidator": "0xf5a7677cc048fdba378acfff8aa9c5886b4957ab"
+      },
+      {
+        "time": "1652612442",
+        "snxRedeemed": "132.316598005312451993",
+        "amountLiquidated": "362.822397564418118588",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624526744",
+        "snxRedeemed": "828.843855399683168381",
+        "amountLiquidated": "4971.556143570099586344",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624700519",
+        "snxRedeemed": "42.27824938474338527",
+        "amountLiquidated": "220.666684355362871392",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624695092",
+        "snxRedeemed": "36.457551664957927621",
+        "amountLiquidated": "188.340738678400454452",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1624536409",
+        "snxRedeemed": "177.656895759452123117",
+        "amountLiquidated": "1077.427831218983466117",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1655323930",
+        "snxRedeemed": "87.083026606116475467",
+        "amountLiquidated": "122.757539669910402607",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655323930",
+        "snxRedeemed": "101.373121450258263366",
+        "amountLiquidated": "142.901727958760094544",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655323930",
+        "snxRedeemed": "73.478063606293888991",
+        "amountLiquidated": "103.579154969153110905",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655323930",
+        "snxRedeemed": "108.536186401782718956",
+        "amountLiquidated": "152.999220710386013864",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655323930",
+        "snxRedeemed": "40.14196444844637693",
+        "amountLiquidated": "56.586558658517949039",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1624616723",
+        "snxRedeemed": "430.284897308061959185",
+        "amountLiquidated": "2503.763059558567677175",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1638991377",
+        "snxRedeemed": "33680.035731180967785448",
+        "amountLiquidated": "185817.642877381421587797",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1623420156",
+        "snxRedeemed": "7.059586375677951096",
+        "amountLiquidated": "61",
+        "liquidator": "0x8b01d375e274213c860ef6ac013dbdd5286cd816"
+      },
+      {
+        "time": "1622462671",
+        "snxRedeemed": "57.385798113949736434",
+        "amountLiquidated": "667.625247365913757679",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1622046953",
+        "snxRedeemed": "4104.459518106900472848",
+        "amountLiquidated": "52208.757905995918869847",
+        "liquidator": "0x707adb1f4dbf60ee97c3a12868e89ee8c96bef57"
+      },
+      {
+        "time": "1624954519",
+        "snxRedeemed": "184.448654201581994676",
+        "amountLiquidated": "1207.049889645027968473",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624541030",
+        "snxRedeemed": "329.779667114138201314",
+        "amountLiquidated": "2000",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624538532",
+        "snxRedeemed": "183.018783642613649516",
+        "amountLiquidated": "1109.945832890115927348",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "919.160929262936921354",
+        "amountLiquidated": "2300.283365048674293313",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652619603",
+        "snxRedeemed": "2004.337437104356015356",
+        "amountLiquidated": "5079.202869425791788678",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1622201692",
+        "snxRedeemed": "42.096204814558665745",
+        "amountLiquidated": "449.586690170468564992",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624448490",
+        "snxRedeemed": "510.477854097593496042",
+        "amountLiquidated": "3209.882959893178561535",
+        "liquidator": "0x817bdaf8c8ae6e0ed872bb7ae31679617a7a2f6a"
+      },
+      {
+        "time": "1623636886",
+        "snxRedeemed": "119.282933888206930062",
+        "amountLiquidated": "990.010928962585864782",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "33.847658829521180155",
+        "amountLiquidated": "62.502926684957160969",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "1641.78619689029078245",
+        "amountLiquidated": "3029.934342594807451375",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "138.294338129486406366",
+        "amountLiquidated": "255.445634669662166167",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "141.802969115206950228",
+        "amountLiquidated": "265.234818138705674298",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "612.889181844786548907",
+        "amountLiquidated": "1132.077192429402853342",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "32.40416523",
+        "amountLiquidated": "59.70366368646308833",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "305.246998209118563851",
+        "amountLiquidated": "563.826503985504123429",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "100.51980537",
+        "amountLiquidated": "184.821768466436602767",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "51.232306330383571139",
+        "amountLiquidated": "94.631994217303568634",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "3941.872418788942328474",
+        "amountLiquidated": "7366.173330954348293337",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "48.06265195",
+        "amountLiquidated": "89.772411380477990966",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "106.673216737412432126",
+        "amountLiquidated": "199.227231305593805578",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "70.327766072727741785",
+        "amountLiquidated": "131.60741051284346369",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "697.301107472238437784",
+        "amountLiquidated": "1299.717663037763564379",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "43.213370488224057238",
+        "amountLiquidated": "80.364850347636296904",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "134.873357561901860873",
+        "amountLiquidated": "250.796752261052005875",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "924.25453838",
+        "amountLiquidated": "1714.841193729314082407",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "2566.618634774965633415",
+        "amountLiquidated": "4761.716382866646390616",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "67.69657791829181608",
+        "amountLiquidated": "125.468118988888128061",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652927924",
+        "snxRedeemed": "467.319779046625579202",
+        "amountLiquidated": "864.565926057398792276",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1624652619",
+        "snxRedeemed": "110.759295256234649447",
+        "amountLiquidated": "595.482504165067836575",
+        "liquidator": "0xa3eeff147afb79f24a3c0e9a9fbd459c76341dfc"
+      },
+      {
+        "time": "1652617249",
+        "snxRedeemed": "221.334510717620099697",
+        "amountLiquidated": "567.283449652410362208",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624580577",
+        "snxRedeemed": "186.360624418479562192",
+        "amountLiquidated": "1131.537110289022075337",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1623633718",
+        "snxRedeemed": "340.799247316838245915",
+        "amountLiquidated": "2828.526834711349222115",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1623654737",
+        "snxRedeemed": "401.67693242030412701",
+        "amountLiquidated": "3227.03890582799844862",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1624626715",
+        "snxRedeemed": "1329.245372323494652926",
+        "amountLiquidated": "7418.839725712011925253",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624509560",
+        "snxRedeemed": "8.986936603243999697",
+        "amountLiquidated": "52.256669760658529431",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1622462483",
+        "snxRedeemed": "65.561317133217726936",
+        "amountLiquidated": "762.73907494996738048",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623721813",
+        "snxRedeemed": "121.729600882321689123",
+        "amountLiquidated": "1110.38593776048480921",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1652615598",
+        "snxRedeemed": "278.817535783299379892",
+        "amountLiquidated": "715.216542903205697024",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623908221",
+        "snxRedeemed": "37.052141512756486145",
+        "amountLiquidated": "312.604122048664122462",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624502248",
+        "snxRedeemed": "18.034434168619349544",
+        "amountLiquidated": "103.695801023125332778",
+        "liquidator": "0xa0621ad9606e0b9efeaff2708189bfcfe186bf6e"
+      },
+      {
+        "time": "1652857423",
+        "snxRedeemed": "24.532094089029400953",
+        "amountLiquidated": "52.237270941370126062",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1638986801",
+        "snxRedeemed": "969.899636972488171743",
+        "amountLiquidated": "5351.076994345464243448",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624523595",
+        "snxRedeemed": "142.443767523519153605",
+        "amountLiquidated": "854.691883810057710432",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1623723900",
+        "snxRedeemed": "931.31183138309803151",
+        "amountLiquidated": "8495.185671704082185501",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1652611232",
+        "snxRedeemed": "144.802466281878268433",
+        "amountLiquidated": "407.344083358484082656",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "71.62412785",
+        "amountLiquidated": "186.268480306951959075",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "70.572527543414646515",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "61.496877898380013466",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "79.258480128119403801",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "20.562853952998955309",
+        "amountLiquidated": "41.260295106812081189",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "105.05873408982697778",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "124.85976327977618538",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "98.70095721316835343",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "123.821866131425145444",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "82.779143765389547947",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652998977",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "156.512049125255413688",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1624692243",
+        "snxRedeemed": "43.082659461940690431",
+        "amountLiquidated": "227.394094155411832608",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1624533490",
+        "snxRedeemed": "4775.93567642862673867",
+        "amountLiquidated": "28646.930539160072019772",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1624527042",
+        "snxRedeemed": "515.927615430838229622",
+        "amountLiquidated": "3094.627642375155126406",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652607675",
+        "snxRedeemed": "4021.41475646",
+        "amountLiquidated": "11870.987367654060678952",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "2791.204576295096738208",
+        "amountLiquidated": "5708.508346448872115485",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "2314.91911000258725413",
+        "amountLiquidated": "4734.420104148844778134",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "686.163496091469520794",
+        "amountLiquidated": "1403.326032685815883397",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "652.679627829128649102",
+        "amountLiquidated": "1334.845584111644800736",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "23838.901338453292272356",
+        "amountLiquidated": "48754.78079122511117543",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "504.103331315164312868",
+        "amountLiquidated": "1030.980709448742864417",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "642.141144836942778777",
+        "amountLiquidated": "1313.292517514263912436",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "429.063528340284726658",
+        "amountLiquidated": "877.511004921900396202",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "404.891087625947334226",
+        "amountLiquidated": "828.074076957632518413",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1652972172",
+        "snxRedeemed": "278.314589538723697408",
+        "amountLiquidated": "569.202691487822466863",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "73.285290117052463026",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "109.047338820024155055",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "62.954249900636755408",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "82.340097049925597023",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "74.538814403590237836",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "102.911824994861655779",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653054260",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "126.352899570490347389",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1623422767",
+        "snxRedeemed": "460.288954511682990125",
+        "amountLiquidated": "3933.436008575937188478",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1652611433",
+        "snxRedeemed": "80.126331657463667887",
+        "amountLiquidated": "224.198499990610539684",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624540867",
+        "snxRedeemed": "128.783540955662064549",
+        "amountLiquidated": "781.027781868004078307",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1652613486",
+        "snxRedeemed": "112.108926457166725099",
+        "amountLiquidated": "285.43229164998562524",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1622201954",
+        "snxRedeemed": "70.613707886491198379",
+        "amountLiquidated": "754.153096441901294475",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624534362",
+        "snxRedeemed": "0.002613659558197857",
+        "amountLiquidated": "0.015677205240899513",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652607253",
+        "snxRedeemed": "105.03285744921261887",
+        "amountLiquidated": "314.800391969748127294",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623373412",
+        "snxRedeemed": "59932.439795140023972975",
+        "amountLiquidated": "500000",
+        "liquidator": "0xa0621ad9606e0b9efeaff2708189bfcfe186bf6e"
+      },
+      {
+        "time": "1638964987",
+        "snxRedeemed": "1336.195187793704636428",
+        "amountLiquidated": "6963.170401902790048286",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1624933972",
+        "snxRedeemed": "13.764018519044800416",
+        "amountLiquidated": "90",
+        "liquidator": "0x0ed8a6cf914dff11b672dfa330ace1a924f6a93a"
+      },
+      {
+        "time": "1624690473",
+        "snxRedeemed": "60.302101594829705094",
+        "amountLiquidated": "325.037681000290392135",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1624520446",
+        "snxRedeemed": "4999.999999999999999999",
+        "amountLiquidated": "30000",
+        "liquidator": "0x707adb1f4dbf60ee97c3a12868e89ee8c96bef57"
+      },
+      {
+        "time": "1652996134",
+        "snxRedeemed": "59.964761273631117164",
+        "amountLiquidated": "122.852646905902862199",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1623733090",
+        "snxRedeemed": "6368.21645182571383644",
+        "amountLiquidated": "58723.823021992111035042",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1652605299",
+        "snxRedeemed": "6805.443440737166441051",
+        "amountLiquidated": "22530.404593561562880347",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652996134",
+        "snxRedeemed": "865.477629843450702302",
+        "amountLiquidated": "1773.14501726985111511",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1652614910",
+        "snxRedeemed": "119.998058137960782716",
+        "amountLiquidated": "304.600530091241438931",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623641360",
+        "snxRedeemed": "735.794737936387256873",
+        "amountLiquidated": "6044.214564084189568546",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1652623104",
+        "snxRedeemed": "7220.063059158061535793",
+        "amountLiquidated": "18091.312729338660706045",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624700582",
+        "snxRedeemed": "36.349372943772671138",
+        "amountLiquidated": "189.721564223360680201",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652794713",
+        "snxRedeemed": "46.070870537363753811",
+        "amountLiquidated": "139.816629936055219154",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1623372336",
+        "snxRedeemed": "1294.282043434102145743",
+        "amountLiquidated": "11433.787031388796068814",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652608076",
+        "snxRedeemed": "506.422658014268220548",
+        "amountLiquidated": "1483.316603461149407981",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652614910",
+        "snxRedeemed": "1029.236526486708382872",
+        "amountLiquidated": "2612.592207089586126868",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652614301",
+        "snxRedeemed": "572.016387577626187796",
+        "amountLiquidated": "1436.202401861666046146",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652606686",
+        "snxRedeemed": "200.35847036999998",
+        "amountLiquidated": "619.516282481889444186",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1622497058",
+        "snxRedeemed": "325.342470543153806301",
+        "amountLiquidated": "3786.085554805188067328",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624570598",
+        "snxRedeemed": "1.631231902937169916",
+        "amountLiquidated": "10",
+        "liquidator": "0x725238bcd7d4e68418566085efef03be9a0ddbde"
+      },
+      {
+        "time": "1623714432",
+        "snxRedeemed": "177.527077465950829106",
+        "amountLiquidated": "1602.999166833913887447",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1623364820",
+        "snxRedeemed": "822.075618072695728394",
+        "amountLiquidated": "7500",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1624540919",
+        "snxRedeemed": "139.164360622514438669",
+        "amountLiquidated": "843.983874690182387577",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1624523883",
+        "snxRedeemed": "136.684992487553087904",
+        "amountLiquidated": "811.647379470618334689",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1639639238",
+        "snxRedeemed": "28951.91396407306175383",
+        "amountLiquidated": "136073.995631143390243001",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1623373243",
+        "snxRedeemed": "59932.439795140023972975",
+        "amountLiquidated": "500000",
+        "liquidator": "0xa0621ad9606e0b9efeaff2708189bfcfe186bf6e"
+      },
+      {
+        "time": "1639639869",
+        "snxRedeemed": "430.253013527870553935",
+        "amountLiquidated": "2022.189163580991603493",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1623726493",
+        "snxRedeemed": "46.642328803823588812",
+        "amountLiquidated": "421.184803438919149246",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1652996134",
+        "snxRedeemed": "34.959936702390067845",
+        "amountLiquidated": "57.363078655104407131",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1652618854",
+        "snxRedeemed": "63.909452546857042056",
+        "amountLiquidated": "163.777125727910949658",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623374066",
+        "snxRedeemed": "31285.083590455575821792",
+        "amountLiquidated": "250000",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1623381421",
+        "snxRedeemed": "32102.774450139632139934",
+        "amountLiquidated": "262988.092898072018178083",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623639632",
+        "snxRedeemed": "76.184295670421241707",
+        "amountLiquidated": "632.305752973190976747",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1652777516",
+        "snxRedeemed": "31.493045343367327887",
+        "amountLiquidated": "79.945482395994860835",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623638831",
+        "snxRedeemed": "89.757844369184002138",
+        "amountLiquidated": "744.961948780507394656",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1623717351",
+        "snxRedeemed": "196.852450985074328503",
+        "amountLiquidated": "1795.637148262887811935",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1624691653",
+        "snxRedeemed": "45.300698928751620412",
+        "amountLiquidated": "239.101102999700675644",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1623374017",
+        "snxRedeemed": "25028.066872364460657434",
+        "amountLiquidated": "200000",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1624518765",
+        "snxRedeemed": "170.710449547636232183",
+        "amountLiquidated": "1024.262697285817393098",
+        "liquidator": "0x03334ef7c694845d6aaeef9682ee744425dc6a1f"
+      },
+      {
+        "time": "1623373412",
+        "snxRedeemed": "26120.850893446021872987",
+        "amountLiquidated": "217919.135135594675207636",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624937567",
+        "snxRedeemed": "22.73294658985828604",
+        "amountLiquidated": "147.126872082462480069",
+        "liquidator": "0x0ed8a6cf914dff11b672dfa330ace1a924f6a93a"
+      },
+      {
+        "time": "1623372415",
+        "snxRedeemed": "351.186819579824261499",
+        "amountLiquidated": "3102.411351278948510216",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1624629908",
+        "snxRedeemed": "343.959468172043783461",
+        "amountLiquidated": "1915.521910333944557398",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "66.149289779088605365",
+        "amountLiquidated": "163.929967216177762024",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "45.777",
+        "amountLiquidated": "152.812635257948570535",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "32.645829515717010839",
+        "amountLiquidated": "122.976691421881533784",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "23.113967023042413795",
+        "amountLiquidated": "57.280612822557836369",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "861.977625488490549456",
+        "amountLiquidated": "2136.137279165113852561",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "459.118978646013197509",
+        "amountLiquidated": "1137.780305262756342193",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "40.744161982192949985",
+        "amountLiquidated": "109.493924093802878852",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "32.168522379545905425",
+        "amountLiquidated": "120.80663649455204143",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "32.938207857285347397",
+        "amountLiquidated": "81.626867835418051821",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "44.03593",
+        "amountLiquidated": "116.5744812896194539",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "37.7561518",
+        "amountLiquidated": "112.223809823512603832",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "124.544390784817684453",
+        "amountLiquidated": "308.643644799466370746",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "41.480504942456636564",
+        "amountLiquidated": "89.620535095617968574",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "30.576435072046270008",
+        "amountLiquidated": "64.828262388381131115",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "50",
+        "amountLiquidated": "166.454186761262583137",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "38.354588280290745961",
+        "amountLiquidated": "108.913031613855383757",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "37.224255657144161456",
+        "amountLiquidated": "92.248473564886349209",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "189.019103503771272767",
+        "amountLiquidated": "468.423705592073172329",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "44.4465648135220236",
+        "amountLiquidated": "110.146668801510033032",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1652633796",
+        "snxRedeemed": "47.833174960530345516",
+        "amountLiquidated": "114.121944943776967698",
+        "liquidator": "0x0bc0111e4300257b05a2f0adf61a23aa059d59f3"
+      },
+      {
+        "time": "1624533493",
+        "snxRedeemed": "0.203882415556231043",
+        "amountLiquidated": "1.222923798036374931",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624626715",
+        "snxRedeemed": "5733.491150500560897503",
+        "amountLiquidated": "32000",
+        "liquidator": "0x725238bcd7d4e68418566085efef03be9a0ddbde"
+      },
+      {
+        "time": "1623423022",
+        "snxRedeemed": "168.706627154707181361",
+        "amountLiquidated": "1441.69595127418360595",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1652614469",
+        "snxRedeemed": "1877.502058166980310956",
+        "amountLiquidated": "4765.81147261203126772",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652613346",
+        "snxRedeemed": "74.88869045",
+        "amountLiquidated": "196.204190840723259715",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1622048290",
+        "snxRedeemed": "165.9471969859009522",
+        "amountLiquidated": "2087.35713803973820416",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652777516",
+        "snxRedeemed": "114.220230208232585933",
+        "amountLiquidated": "289.949457215698522321",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1604622581",
+        "snxRedeemed": "9.581422042054085214",
+        "amountLiquidated": "27.813330805364443426",
+        "liquidator": "0x8e461b2fdd724c7f5c2af5e41e1578c5ab656e3b"
+      },
+      {
+        "time": "1624692122",
+        "snxRedeemed": "53.383681234266265994",
+        "amountLiquidated": "281.763799833920900944",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1623907430",
+        "snxRedeemed": "45.616914126761275364",
+        "amountLiquidated": "384.864",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652607074",
+        "snxRedeemed": "76.200789799527692031",
+        "amountLiquidated": "234.230544148791132185",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624652569",
+        "snxRedeemed": "100.597284737100682482",
+        "amountLiquidated": "540.847816780263196187",
+        "liquidator": "0xa3eeff147afb79f24a3c0e9a9fbd459c76341dfc"
+      },
+      {
+        "time": "1653074629",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "64.735083724387475008",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1624533990",
+        "snxRedeemed": "666.868748105486511063",
+        "amountLiquidated": "4000",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1623408384",
+        "snxRedeemed": "52.006593776691938792",
+        "amountLiquidated": "444.500999999999967232",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623907948",
+        "snxRedeemed": "37.886441138221175119",
+        "amountLiquidated": "319.643",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652607637",
+        "snxRedeemed": "85.19638714",
+        "amountLiquidated": "251.769293510612402613",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623732468",
+        "snxRedeemed": "57.942718752615205198",
+        "amountLiquidated": "534.312548447711287987",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1638988238",
+        "snxRedeemed": "0.000000000000000072",
+        "amountLiquidated": "0.0000000000000004",
+        "liquidator": "0xc965843a3a0f09f9473df15858771b53f548d394"
+      },
+      {
+        "time": "1623457184",
+        "snxRedeemed": "6.739748445534756644",
+        "amountLiquidated": "52",
+        "liquidator": "0x8b01d375e274213c860ef6ac013dbdd5286cd816"
+      },
+      {
+        "time": "1653570811",
+        "snxRedeemed": "182.968890250217643195",
+        "amountLiquidated": "346.937164974451146519",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624953676",
+        "snxRedeemed": "1073.626275184774163375",
+        "amountLiquidated": "7025.914515838571644173",
+        "liquidator": "0x144cf650f05716a4c0cc18d8007ed1846949749e"
+      },
+      {
+        "time": "1624692230",
+        "snxRedeemed": "47.832498726320283176",
+        "amountLiquidated": "252.464166671746504093",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1639639378",
+        "snxRedeemed": "7121.318232386348612069",
+        "amountLiquidated": "33470.195692215838476729",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1655544014",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "35.865792000000000001",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655544014",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "35.865792000000000001",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655544014",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "35.865792000000000002",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1623637621",
+        "snxRedeemed": "108.840077724102494258",
+        "amountLiquidated": "903.338499009302895282",
+        "liquidator": "0x53c9f4e04ee43b13ffbd07dba471ccd50bee87fe"
+      },
+      {
+        "time": "1652614301",
+        "snxRedeemed": "2387.141982429078123727",
+        "amountLiquidated": "5500.969853944219344622",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623738951",
+        "snxRedeemed": "53.589743589743589743",
+        "amountLiquidated": "494",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623408928",
+        "snxRedeemed": "30.887986207110159152",
+        "amountLiquidated": "264",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "3917.916921017932285381",
+        "amountLiquidated": "7041.939444059964843869",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "782.715651845967193226",
+        "amountLiquidated": "1482.57422896544621625",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "217.595948225428108316",
+        "amountLiquidated": "412.157524134709666975",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "202.500133845549173895",
+        "amountLiquidated": "355.817376568584161594",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "257.401554335234962187",
+        "amountLiquidated": "487.554976130933236256",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "108.333892567866515187",
+        "amountLiquidated": "205.199725936025708564",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "45.930455987512226659",
+        "amountLiquidated": "86.998784566426389792",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "69.441321803282558675",
+        "amountLiquidated": "131.531692113272399969",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "34.557743791670283223",
+        "amountLiquidated": "65.457257991314029757",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "80.193729016047565804",
+        "amountLiquidated": "151.89827325342405329",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "13297.799450532789355586",
+        "amountLiquidated": "23561.22890493022057863",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "58.164257957225323874",
+        "amountLiquidated": "110.171337050572555309",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "388.87810583068887132",
+        "amountLiquidated": "736.590173652149989012",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "399.512022102121288379",
+        "amountLiquidated": "684.381480429932154732",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "49.17815427323944497",
+        "amountLiquidated": "93.150384793812644203",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "53.378622024746728847",
+        "amountLiquidated": "101.106665242910730129",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "594.102231827152400234",
+        "amountLiquidated": "1067.884027715937313121",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "592.221923581500344694",
+        "amountLiquidated": "1121.752145443314726748",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "34.567622294015474189",
+        "amountLiquidated": "65.47596927294384569",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652942338",
+        "snxRedeemed": "3581.392756007008064783",
+        "amountLiquidated": "6221.175126645562488907",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652615279",
+        "snxRedeemed": "89.687596420076310108",
+        "amountLiquidated": "227.661095821702956871",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623395907",
+        "snxRedeemed": "10.613501851269596852",
+        "amountLiquidated": "86",
+        "liquidator": "0x8b01d375e274213c860ef6ac013dbdd5286cd816"
+      },
+      {
+        "time": "1652623104",
+        "snxRedeemed": "705.802601848024704369",
+        "amountLiquidated": "1768.529650030855686541",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "195.085031302686233395",
+        "amountLiquidated": "483.456177573747883851",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "112.687888885630432904",
+        "amountLiquidated": "279.261077365662327361",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "21.10936748571427229",
+        "amountLiquidated": "52.31285069641555115",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "432.711330916211603664",
+        "amountLiquidated": "753.26533210920317332",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "97.888863184565705068",
+        "amountLiquidated": "242.586400946478283652",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "74.671138361100465174",
+        "amountLiquidated": "185.048657429418061878",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "94.855891988717099769",
+        "amountLiquidated": "235.07014687385710361",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "67.980858955303791383",
+        "amountLiquidated": "168.468928647416486647",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "82.93507512340289738",
+        "amountLiquidated": "205.528195260360271144",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "45.802286810570559198",
+        "amountLiquidated": "113.506394405104858522",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "48.176027672991628528",
+        "amountLiquidated": "119.388955851431981245",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "55.079981688372748303",
+        "amountLiquidated": "136.498209165912828978",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "403.553929544445858369",
+        "amountLiquidated": "1000.080010852872190833",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "272.701281937777032866",
+        "amountLiquidated": "675.80335869307290145",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "87.487387200211343153",
+        "amountLiquidated": "216.809652279796474033",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "53.454774872484579646",
+        "amountLiquidated": "132.470651183993603743",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "135.02691984109614851",
+        "amountLiquidated": "334.621257715298273491",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "45.94463063734037795",
+        "amountLiquidated": "113.859148288536245722",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "19.410330399271444208",
+        "amountLiquidated": "48.102327880376324466",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1652636415",
+        "snxRedeemed": "37.135339142177203172",
+        "amountLiquidated": "92.028122274159141681",
+        "liquidator": "0xb299d2a7ee9f0caa0b9ae173e0036cba138645ad"
+      },
+      {
+        "time": "1623393112",
+        "snxRedeemed": "0.121974490270628826",
+        "amountLiquidated": "1",
+        "liquidator": "0x8b01d375e274213c860ef6ac013dbdd5286cd816"
+      },
+      {
+        "time": "1624540775",
+        "snxRedeemed": "1648.898335570691006568",
+        "amountLiquidated": "10000",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624533905",
+        "snxRedeemed": "1624.097200112916853427",
+        "amountLiquidated": "9741.630296677295817197",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1639639411",
+        "snxRedeemed": "4518.072128912536493607",
+        "amountLiquidated": "21234.939005888921519951",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1624544065",
+        "snxRedeemed": "134.433657036798249442",
+        "amountLiquidated": "807.017752854749242918",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1622047739",
+        "snxRedeemed": "1012.20079817396858249",
+        "amountLiquidated": "12731.908700919253958656",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652608412",
+        "snxRedeemed": "66.133543777839324144",
+        "amountLiquidated": "192.560009499006574817",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624954009",
+        "snxRedeemed": "806.670700576194887768",
+        "amountLiquidated": "5278.931333628685252174",
+        "liquidator": "0x144cf650f05716a4c0cc18d8007ed1846949749e"
+      },
+      {
+        "time": "1624953882",
+        "snxRedeemed": "826.262190762414955777",
+        "amountLiquidated": "5407.13994631617080929",
+        "liquidator": "0x144cf650f05716a4c0cc18d8007ed1846949749e"
+      },
+      {
+        "time": "1620936903",
+        "snxRedeemed": "5443.338581645219114658",
+        "amountLiquidated": "91248.709021737321876019",
+        "liquidator": "0x707adb1f4dbf60ee97c3a12868e89ee8c96bef57"
+      },
+      {
+        "time": "1624692872",
+        "snxRedeemed": "45.138433219705955493",
+        "amountLiquidated": "238.244650209140691948",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1624516709",
+        "snxRedeemed": "491.659178334408465852",
+        "amountLiquidated": "2949.955070006450795115",
+        "liquidator": "0x03334ef7c694845d6aaeef9682ee744425dc6a1f"
+      },
+      {
+        "time": "1623731859",
+        "snxRedeemed": "1574.174117052502052575",
+        "amountLiquidated": "14516.077296507347994147",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1652606072",
+        "snxRedeemed": "84.273049487205332398",
+        "amountLiquidated": "268.55690102042012324",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623908365",
+        "snxRedeemed": "40.498238778542026447",
+        "amountLiquidated": "341.678398629797905493",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652618894",
+        "snxRedeemed": "346.284252777831311674",
+        "amountLiquidated": "887.40299509230650646",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624508914",
+        "snxRedeemed": "7.781245410231761277",
+        "amountLiquidated": "45.707441579234590567",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1652619729",
+        "snxRedeemed": "56.700800391870387907",
+        "amountLiquidated": "143.685819921215518424",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624691514",
+        "snxRedeemed": "49.42964573870300203",
+        "amountLiquidated": "260.894050124847309608",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1624651426",
+        "snxRedeemed": "97.754972660909057708",
+        "amountLiquidated": "525.566506901633138734",
+        "liquidator": "0xcbe7f269f78f95bb04597dfb224c9abe2cc39389"
+      },
+      {
+        "time": "1652617249",
+        "snxRedeemed": "169.818601875155096495",
+        "amountLiquidated": "435.247454066448764488",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623731774",
+        "snxRedeemed": "3931.452791315943230907",
+        "amountLiquidated": "36253.469033761544592543",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1652608019",
+        "snxRedeemed": "136.011637690582006816",
+        "amountLiquidated": "399.282636522730318286",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624653752",
+        "snxRedeemed": "95.545421242890101158",
+        "amountLiquidated": "513.687149882978388746",
+        "liquidator": "0xa3eeff147afb79f24a3c0e9a9fbd459c76341dfc"
+      },
+      {
+        "time": "1652618854",
+        "snxRedeemed": "604.367013920877322702",
+        "amountLiquidated": "1548.777035011378352353",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652612730",
+        "snxRedeemed": "127.589943224667977324",
+        "amountLiquidated": "345.020564853776818579",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652614910",
+        "snxRedeemed": "68.177007978656760733",
+        "amountLiquidated": "173.059073559826118794",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652851843",
+        "snxRedeemed": "39.393167805223581671",
+        "amountLiquidated": "83.634725494166988779",
+        "liquidator": "0xec92a3df770a323881d150bf7d76e4a2814f9a1e"
+      },
+      {
+        "time": "1622963803",
+        "snxRedeemed": "14.430320492098375746",
+        "amountLiquidated": "153.275762797641",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652612394",
+        "snxRedeemed": "126",
+        "amountLiquidated": "345.824706688424175436",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624690929",
+        "snxRedeemed": "58.191427942657662664",
+        "amountLiquidated": "310.506269024731086443",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1624623251",
+        "snxRedeemed": "136.785869980813589224",
+        "amountLiquidated": "779.310726464438088302",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1655178472",
+        "snxRedeemed": "54649.441362370688596401",
+        "amountLiquidated": "83795.877034534058085243",
+        "liquidator": "0xa698cade532bf7491f0f887284f8e10e2de97198"
+      },
+      {
+        "time": "1652617067",
+        "snxRedeemed": "3175.268781165846290761",
+        "amountLiquidated": "6731.777432992379384084",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652614910",
+        "snxRedeemed": "117.917085765807487002",
+        "amountLiquidated": "299.318233881628010774",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624570882",
+        "snxRedeemed": "1.631231902937169916",
+        "amountLiquidated": "10",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1623724077",
+        "snxRedeemed": "712.655403532344655596",
+        "amountLiquidated": "6500.658285377323510703",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1623408225",
+        "snxRedeemed": "71.523004061727640799",
+        "amountLiquidated": "611.308",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1622047131",
+        "snxRedeemed": "524.050631688326492976",
+        "amountLiquidated": "6665.92822748056649728",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1655421495",
+        "snxRedeemed": "30.272753439502845364",
+        "amountLiquidated": "40.386761834167663639",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655421495",
+        "snxRedeemed": "30.028700518935419619",
+        "amountLiquidated": "40.061171788399711483",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1623364831",
+        "snxRedeemed": "124.06675806547117443",
+        "amountLiquidated": "1131.891841863080418374",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652613634",
+        "snxRedeemed": "2763.714681811688146388",
+        "amountLiquidated": "6793.199137952632239221",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "27.679297104677527974",
+        "amountLiquidated": "68.594330824864492052",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "60.048197411525627554",
+        "amountLiquidated": "148.810351039835327922",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "62.95264112778260377",
+        "amountLiquidated": "156.008090649395798069",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "34.44621663571823833",
+        "amountLiquidated": "85.363987771789016079",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "490.460583439295192973",
+        "amountLiquidated": "872.162447252256705343",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "89.544450989840177554",
+        "amountLiquidated": "221.907430362094840012",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "426.61441627",
+        "amountLiquidated": "961.326881804266091944",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "238.985526991660342208",
+        "amountLiquidated": "592.249587799332811691",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "478.520008583640838159",
+        "amountLiquidated": "1185.859584908186295294",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "14227.275007687211660122",
+        "amountLiquidated": "35257.77424632303544136",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "762.697900138075281498",
+        "amountLiquidated": "1890.104068887630197605",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "119.551804604199916339",
+        "amountLiquidated": "296.271108500953610855",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "5327.257292830777641069",
+        "amountLiquidated": "13201.912163869727135961",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "972.378114980986195933",
+        "amountLiquidated": "2409.729764943789427376",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "44.224443570656828053",
+        "amountLiquidated": "109.596211976009557522",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "28.653772398919060229",
+        "amountLiquidated": "71.009257781321234712",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "62.57371919909729195",
+        "amountLiquidated": "155.06905321521747078",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "43.19008257782480316",
+        "amountLiquidated": "107.032877370136739468",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "158.808141878892872569",
+        "amountLiquidated": "393.555449783510882386",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1652636482",
+        "snxRedeemed": "317.476824310815189172",
+        "amountLiquidated": "786.765293701165641531",
+        "liquidator": "0x4ecf53cb5f5de1aef7a520abcfe8b7ddfcfefbfe"
+      },
+      {
+        "time": "1623731975",
+        "snxRedeemed": "261.812419474200559917",
+        "amountLiquidated": "2414.275064685456656546",
+        "liquidator": "0x8917be2b390e0b62b8b7599a71eee30b5ae8be79"
+      },
+      {
+        "time": "1652614060",
+        "snxRedeemed": "51.751073715929088266",
+        "amountLiquidated": "125.132998116295945553",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1623907544",
+        "snxRedeemed": "42.738714228251297683",
+        "amountLiquidated": "360.581",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624661736",
+        "snxRedeemed": "74.391209009628595461",
+        "amountLiquidated": "393",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1652777757",
+        "snxRedeemed": "186.490370522863298379",
+        "amountLiquidated": "473.408096013111904647",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652618854",
+        "snxRedeemed": "211.794984797893017635",
+        "amountLiquidated": "542.754983362650774094",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652616008",
+        "snxRedeemed": "65.517975134940265897",
+        "amountLiquidated": "169.81067919064972552",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624623447",
+        "snxRedeemed": "1273.131292159478489934",
+        "amountLiquidated": "7253.416396858673924277",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624661806",
+        "snxRedeemed": "78.366311781135466974",
+        "amountLiquidated": "414",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623196991",
+        "snxRedeemed": "0.000000000000000004",
+        "amountLiquidated": "0.000000000000000043",
+        "liquidator": "0x7e333ad826395d09230e0e6463f986a1f90c6a7f"
+      },
+      {
+        "time": "1623717954",
+        "snxRedeemed": "105.954429066539884267",
+        "amountLiquidated": "966.488900203176052229",
+        "liquidator": "0xa8162ebe6170d30219e0e251fca451d454c19f98"
+      },
+      {
+        "time": "1604581868",
+        "snxRedeemed": "0.042626293521518344",
+        "amountLiquidated": "0.1",
+        "liquidator": "0x8e461b2fdd724c7f5c2af5e41e1578c5ab656e3b"
+      },
+      {
+        "time": "1624700219",
+        "snxRedeemed": "51.296661885301586132",
+        "amountLiquidated": "265",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624690408",
+        "snxRedeemed": "59.159263491069808836",
+        "amountLiquidated": "318.877606356445220838",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1652612730",
+        "snxRedeemed": "772.865771466133364303",
+        "amountLiquidated": "2084.343634407868158987",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624616766",
+        "snxRedeemed": "183.706453494569459979",
+        "amountLiquidated": "1068.96020506364875492",
+        "liquidator": "0xbd2736ad8725478de36eaa6148dac8498bab9708"
+      },
+      {
+        "time": "1624600499",
+        "snxRedeemed": "14.619004968898968204",
+        "amountLiquidated": "87",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1623393087",
+        "snxRedeemed": "103.026334831609038539",
+        "amountLiquidated": "844.654768411174415071",
+        "liquidator": "0x3973e75e3b02224fbaebf8593cb4a9998ca814de"
+      },
+      {
+        "time": "1620937950",
+        "snxRedeemed": "354.30500273409306164",
+        "amountLiquidated": "6001.61631071404999247",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1653057559",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "60.843744816972514147",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1653057559",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "60.899166291337090844",
+        "liquidator": "0x5502a5881d0673d4fb7ec0b9a386adc7b57b1cf1"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "32096.949061028991150323",
+        "amountLiquidated": "44788.392578768097261806",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "965.164278438114595887",
+        "amountLiquidated": "1346.799551680002336593",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "47.005959388384045743",
+        "amountLiquidated": "65.592569518851346829",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "175.938893061275193573",
+        "amountLiquidated": "245.506829864709496654",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "76.825857312640984616",
+        "amountLiquidated": "107.203542959066363507",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "54.454223517723994003",
+        "amountLiquidated": "75.98594918932832849",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "32.012446917696411232",
+        "amountLiquidated": "44.670477472191123842",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "651.389284472276710555",
+        "amountLiquidated": "908.954895964553481195",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1655325441",
+        "snxRedeemed": "82268.105267682761833437",
+        "amountLiquidated": "114797.708294156148492118",
+        "liquidator": "0x38702564f20ed80b6428c7e5795e08e6ae0a44b8"
+      },
+      {
+        "time": "1624629134",
+        "snxRedeemed": "317.429367854787114397",
+        "amountLiquidated": "1767.77488446738598379",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1624574879",
+        "snxRedeemed": "309.043420715909322419",
+        "amountLiquidated": "1855.743941143349227882",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      },
+      {
+        "time": "1652616008",
+        "snxRedeemed": "115.328720865636246721",
+        "amountLiquidated": "298.911075625389944912",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "83.515214314019617484",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "181.656346488796312939",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "107.740534268496235115",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "73.016835217474958546",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "100.007460232622228167",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "85.328360510308145009",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "141.634242871588476781",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "63.786347509613957213",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1652999875",
+        "snxRedeemed": "30.000000000000000001",
+        "amountLiquidated": "81.67123109319149382",
+        "liquidator": "0xa8ecaf8745c56d5935c232d2c5b83b9cd3de1f6a"
+      },
+      {
+        "time": "1623408844",
+        "snxRedeemed": "38.159965705382134164",
+        "amountLiquidated": "326.153698679840730876",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1638964660",
+        "snxRedeemed": "3469.452550222867721055",
+        "amountLiquidated": "18079.985266529670242948",
+        "liquidator": "0x7d39e9e736a08107a625b0621519d59be68ca31c"
+      },
+      {
+        "time": "1624700231",
+        "snxRedeemed": "50.90951726729931001",
+        "amountLiquidated": "263",
+        "liquidator": "0xe51a50e95c5a92cb4650eacf6ffcb3eb25c7a012"
+      },
+      {
+        "time": "1624441113",
+        "snxRedeemed": "13.130989523526299236",
+        "amountLiquidated": "81.660417825108635078",
+        "liquidator": "0x18fbfa5669611923e7be0630dbccf355c2322ecd"
+      },
+      {
+        "time": "1623421143",
+        "snxRedeemed": "351.058682669399415252",
+        "amountLiquidated": "3000",
+        "liquidator": "0xb60ab52a8c3eb0dd01cc3a054f1f8009cf9d4cee"
+      },
+      {
+        "time": "1623374201",
+        "snxRedeemed": "31285.083590455575821792",
+        "amountLiquidated": "250000",
+        "liquidator": "0xa0621ad9606e0b9efeaff2708189bfcfe186bf6e"
+      },
+      {
+        "time": "1652614469",
+        "snxRedeemed": "98.007138217898594708",
+        "amountLiquidated": "248.779244573905524754",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1652614469",
+        "snxRedeemed": "887.680430969758580849",
+        "amountLiquidated": "2253.269211357964921921",
+        "liquidator": "0xe4ea13263a80275341eeb2ca7c951aeaf20a445c"
+      },
+      {
+        "time": "1624508437",
+        "snxRedeemed": "9.280472837957476761",
+        "amountLiquidated": "54.513981722108490097",
+        "liquidator": "0x7f85150140efc93d31e12175f65c2ec93fe32c0a"
+      },
+      {
+        "time": "1624952524",
+        "snxRedeemed": "102.305318450686433588",
+        "amountLiquidated": "676.432917313965295984",
+        "liquidator": "0x2f63fc7a3725d123d6feb40c9997cecaa74140bf"
+      }
+    ]
+  }
+}
